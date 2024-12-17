@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jc+a2noJceLKTv1yIIVWW+5eBHq8P7FyhZNAjkZlh5o=",
+  "Source": "Export-API",
+  "BasePath": "_content/Export-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

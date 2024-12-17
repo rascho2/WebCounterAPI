@@ -1,0 +1,6 @@
+@Export_API_HostAddress = http://localhost:5068
+
+GET {{Export_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

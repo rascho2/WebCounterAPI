@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RrWeQn9Ye2CMM+jzEO6W8FLXmlET1lLVfCIW44CKqt4=",
+  "Source": "Import-API",
+  "BasePath": "_content/Import-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
